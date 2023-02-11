@@ -1,0 +1,31 @@
+body {
+    background-color: #73915e;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+li {
+    list-style: none;
+    align-items: right;
+}
+
+body{
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+color:white
+}
+
+a:hover {
+color:rgb(239, 239, 125)
+}
+p {
+    justify-content: right;
+}

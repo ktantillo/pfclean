@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('../assets/dancefont.ttf');
+  }
+
+  body{
+    background-color:#eff3b9;
+    
+  }
